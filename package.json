@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "QR code generator using npm packages",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/KarthikGanapaR"
+  },
+  "author": "Karthik Ganapa R",
+  "license": "ISC"
+}
