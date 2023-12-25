@@ -6,6 +6,6 @@ Packages used
 - qr-image
 
 - To install the package, Type 
-- ### **npm i**
+    - **npm i**
 - To run the Code, Type 
-- ### **node ./index.js**
+    - **node ./index.js**
