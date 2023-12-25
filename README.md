@@ -1,8 +1,8 @@
 # QR-Code-Generator
 
-A simple QR-CODE Generator using npm packages
+A simple QR-CODE Generator using npm packages.
 
-- Packages used 
+- Packages used:
     - inquirer
     - qr-image
 
